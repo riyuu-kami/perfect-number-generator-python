@@ -1,4 +1,3 @@
-
 n = 2
 def perfect(n):
     sum_ = 1
