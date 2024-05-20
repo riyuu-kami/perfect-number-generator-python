@@ -11,6 +11,6 @@ def perfect(n):
     else:
         False
 
-for n in range(3000000,35000000):
+for n in range(2,10000):
     if perfect(n):
         print(n)
